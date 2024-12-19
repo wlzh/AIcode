@@ -8,6 +8,7 @@ AI编程相关材料
 3. CursorList - .cursorrule files and more for Cursor AI https://cursorlist.com/
 4. Cursor Directory https://cursor.directory/
 5. 学习 Cursor ，拥抱 AI 编程 | Cursor 101: https://cursor101.com/zh
+6. cursorrules 终极指南：教你如何创建最优的 .cursorrules 文件: https://www.ifb.me/zh/blog/zh/ai/cursorrules-zhong-ji
 
 
 ### Cursor免费相关
