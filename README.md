@@ -19,3 +19,7 @@ AI编程相关材料
 🔒一个安全、简便、快捷的 Cursor Pro Trial 设备标识重置工具。
 现在这种工具还配教程视频，方便小白用户么。。。https://github.com/aigem/cursor-pro-trial
 5. 无限续杯https://github.com/chengazhen/cursor-auto-free
+
+
+### Cursor 禁止升级
+1. https://linux.do/t/topic/279922/2
