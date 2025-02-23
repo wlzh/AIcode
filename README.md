@@ -16,10 +16,10 @@ AI编程相关材料
 2. kingparks/cursor-vip: cursor IDE enjoy VIP: https://github.com/kingparks/cursor-vip
 3. ultrasev/cursor-reset: Mac utility to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.: https://github.com/ultrasev/cursor-reset
 4. Cursor 设备标识生成器
-🔒一个安全、简便、快捷的 Cursor Pro Trial 设备标识重置工具。
-现在这种工具还配教程视频，方便小白用户么。。。https://github.com/aigem/cursor-pro-trial
+  1. 🔒一个安全、简便、快捷的 Cursor Pro Trial 设备标识重置工具。 现在这种工具还配教程视频，方便小白用户么。。。https://github.com/aigem/cursor-pro-trial
+  2. https://github.com/yuaotian/go-cursor-help/blob/master/README_CN.md
 5. 无限续杯https://github.com/chengazhen/cursor-auto-free
-
+   
 
 ### Cursor 禁止升级
 1. https://linux.do/t/topic/279922/2
