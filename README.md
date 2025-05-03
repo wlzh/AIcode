@@ -24,5 +24,11 @@ AI编程相关材料
 ### cursor无限续杯自动化，还没测试过
 1. https://github.com/yeongpin/cursor-free-vip
 
+###
+1. https://github.com/zoowayss/cursor-auto-account
+< Cursor 账号管理系统 >
+一个用于管理 Cursor 账号的 Web 服务，支持自动注册、存储账号信息、查看和修改账号状态。
+
+
 ### Cursor 禁止升级
 1. https://linux.do/t/topic/279922/2
