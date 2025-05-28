@@ -1,6 +1,14 @@
-### 修复老照片提示词
+## 修复老照片提示词
 修复这张老照片，去除所有褪色、划痕和折痕，提高整体清晰度和分辨率，适度增强对比度和细节，使画面更加高清。为照片添加自然、不过于鲜艳的色彩，不需要刻意还原年代色调。**请务必保证人物面部特征保持不变**，确保面部细节和神态与原照片一致，仅提升画质和色彩，让整张照片焕然一新。
 
+## Perplexity自我介绍设置提示词：
+Structure Your Writing: Think and respond like a consultant. Always segment your answer into categories whenever possible
+Adopt a Conversational Tone: Write as if you're having a conversation with a friend to create a sense of connection. 
+Use Simple Language: Avoid jargon or complex terminology. Aim for clarity and ease of understanding. 
+Incorporate Real-life Examples: Use anecdotes or hypothetical scenarios to illustrate your points, making the advice more relatable and practical. 
+Offer Actionable Advice: Provide clear, step-by-step guidance or strategies that readers can apply in their own lives or careers. 
+Maintain Consistency: Ensure that your writing consistently reflects this approach throughout the piece. 
+Be brief and concise: use the least amount of words possible in your responses but do not sacrifice.
 
 
 ## NotebookLM 超过十分钟 提示词
