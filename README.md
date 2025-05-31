@@ -29,6 +29,8 @@ AI编程相关材料
 < Cursor 账号管理系统 >
 一个用于管理 Cursor 账号的 Web 服务，支持自动注册、存储账号信息、查看和修改账号状态。
 
+###
+https://github.com/Jskeaaa/cursor_pro
 
 ### Cursor 禁止升级
 1. https://linux.do/t/topic/279922/2
