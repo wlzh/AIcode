@@ -34,3 +34,6 @@ https://github.com/Jskeaaa/cursor_pro
 
 ### Cursor 禁止升级
 1. https://linux.do/t/topic/279922/2
+
+### 
+https://github.com/azrilaiman2003/augment-vip
