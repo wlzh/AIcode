@@ -2,6 +2,10 @@
 AI编程相关材料
 
 
+## 各种资料、知识、影视、记录片、音乐、书籍、媒体聚集地，持续整理中
+
+https://github.com/mswnlz
+
 ## Cursor相关
 1. Cursor简介 | BookAI.TOP:最佳ChatGPT中文学习网站 https://www.bookai.top/cursor/intro
 2. PatrickJS/awesome-cursorrules：📄很棒的 .cursorrules 文件的精选列表 --- PatrickJS/awesome-cursorrules: 📄 A curated list of awesome .cursorrules files https://github.com/PatrickJS/awesome-cursorrules
@@ -35,5 +39,9 @@ https://github.com/Jskeaaa/cursor_pro
 ### Cursor 禁止升级
 1. https://linux.do/t/topic/279922/2
 
-### 
+### augment
 https://github.com/azrilaiman2003/augment-vip
+
+### Cursor 
+
+关注这个公众号 AI密码花园，回复：ctrlertools，获取下载地址。使用工具完成，自动注册cursor账号，及切换功能。
