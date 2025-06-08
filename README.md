@@ -36,12 +36,15 @@ https://github.com/mswnlz
 ###
 https://github.com/Jskeaaa/cursor_pro
 
+
+### Cursor 
+
+关注这个公众号 AI密码花园，回复：ctrlertools，获取下载地址。使用工具完成，自动注册cursor账号，及切换功能。
+
+
 ### Cursor 禁止升级
 1. https://linux.do/t/topic/279922/2
 
 ### augment
 https://github.com/azrilaiman2003/augment-vip
-
-### Cursor 
-
-关注这个公众号 AI密码花园，回复：ctrlertools，获取下载地址。使用工具完成，自动注册cursor账号，及切换功能。
+https://github.com/vagmr/Augment-Code-free
