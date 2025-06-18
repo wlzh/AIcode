@@ -1,3 +1,8 @@
+
+## cursor的全局规则提示词
+https://cpcfxio4kb.feishu.cn/wiki/GVoGwN2ariuePDkpOp7cDehen0g
+
+
 ## 提示词管理推荐一个非常棒的开源插件：
 https://chromewebstore.google.com/detail/quick-prompt/hnjamiaoicaepbkhdoknhhcedjdocpkd?hl=zh-CN&utm_source=ext_sidebar
 
