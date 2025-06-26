@@ -48,3 +48,6 @@ https://github.com/Jskeaaa/cursor_pro
 ### augment
 https://github.com/azrilaiman2003/augment-vip
 https://github.com/vagmr/Augment-Code-free
+
+### Google Gemini CLI 新手入门指南及问题全攻略
+https://www.32kw.com/view/99212ad
