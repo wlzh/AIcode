@@ -245,5 +245,8 @@ Be brief and concise: use the least amount of words possible in your responses b
 
 充分利用并极力拉伸 NotebookLM 可能的固有输出结构（开场、核心、关联、 总结、提问），确保每一环节都得到超乎常规的、以分钟计的充分填充
 
+## dia 浏览器自定义指令合集
+
+https://www.caneraras.com/learn/browser-skills-gallery
 
 
