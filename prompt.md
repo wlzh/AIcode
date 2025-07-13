@@ -249,4 +249,6 @@ Be brief and concise: use the least amount of words possible in your responses b
 
 https://www.caneraras.com/learn/browser-skills-gallery
 
+## 一款提示词优化器，助力于编写高质量的提示词
+https://github.com/linshenkx/prompt-optimizer
 
