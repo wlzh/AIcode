@@ -1,9 +1,11 @@
 # AIcode
 AI编程相关材料
 
+## Claude Code Chat UI – Windows(No WSL)
+https://github.com/LKbaba/Claude-code-ChatInWindows/blob/main/README.zh-CN.md
 
 ## 各种资料、知识、影视、记录片、音乐、书籍、媒体聚集地，持续整理中
-
+https://doc.869hr.uk
 https://github.com/mswnlz
 
 ## Cursor相关
