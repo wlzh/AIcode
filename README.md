@@ -48,8 +48,11 @@ https://github.com/Jskeaaa/cursor_pro
 1. https://linux.do/t/topic/279922/2
 
 ### augment
-https://github.com/azrilaiman2003/augment-vip
-https://github.com/vagmr/Augment-Code-free
+1. https://github.com/azrilaiman2003/augment-vip
+
+2. https://github.com/vagmr/Augment-Code-free
+3. https://github.com/BasicProtein/AugmentCode-Free
+AugmentCode无限免费续杯方案；新账号可获得600次免费的Claude Sonnet 4调用
 
 ### Google Gemini CLI 新手入门指南及问题全攻略
 https://www.32kw.com/view/99212ad
