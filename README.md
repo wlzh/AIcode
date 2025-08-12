@@ -1,6 +1,8 @@
 # AIcode
 AI编程相关材料
 
+#各种提示词，包括Dia，Notebook，youtube总结，等等，各种AI工具的提示词[prompt](prompt.md)
+
 ## Claude Code Chat UI – Windows(No WSL)
 https://github.com/LKbaba/Claude-code-ChatInWindows/blob/main/README.zh-CN.md
 
