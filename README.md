@@ -6,9 +6,11 @@ AI编程相关材料
 ## Claude Code Chat UI – Windows(No WSL)
 https://github.com/LKbaba/Claude-code-ChatInWindows/blob/main/README.zh-CN.md
 
-## 各种资料、知识、影视、记录片、音乐、书籍、媒体聚集地，持续整理中
-https://doc.869hr.uk
-https://github.com/mswnlz
+## 超 100TB 大坝资源站，各种资料、知识、影视、记录片、音乐、书籍、媒体聚集地，持续整理中
+
+网站地址：https://doc.869hr.uk 
+
+网站全部资源及全部开源代码仓库：https://github.com/mswnlz
 
 ## Cursor相关
 1. Cursor简介 | BookAI.TOP:最佳ChatGPT中文学习网站 https://www.bookai.top/cursor/intro
