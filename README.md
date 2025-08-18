@@ -55,8 +55,22 @@ https://github.com/Jskeaaa/cursor_pro
 1. https://github.com/azrilaiman2003/augment-vip
 
 2. https://github.com/vagmr/Augment-Code-free
-3. https://github.com/BasicProtein/AugmentCode-Free
-AugmentCode无限免费续杯方案；新账号可获得600次免费的Claude Sonnet 4调用
+3. AugmentCode-Free最新续杯工具
+     全局清理环境
+     多IDE支持
+      代码注入
+    使用方法
+      退出账号
+      关闭IDE
+      杀死后台进程
+      打开AugmentCode-Free工具(先克隆仓库，然后对应目录下运行’python main.py’)
+      先点击扫描状态按钮，再选择补丁模式
+      再点击一键清理环境，或者自定义清理
+      重新指纹浏览器+全局VPN注册登录账号，愉快使用即可
+    工具获取
+      工具已经稳定一周了
+      持续更新
+    地址： https://github.com/BasicProtein/AugmentCode-Free  AugmentCode无限免费续杯方案；新账号可获得600次免费的Claude Sonnet 4调用
 
 ### Google Gemini CLI 新手入门指南及问题全攻略
 https://www.32kw.com/view/99212ad
