@@ -132,9 +132,14 @@ This is a photo of an empty living room \[Empty Room Photo]. Redesign it in a co
 
 
 
+
 &#x20;
 
+![](https://emydaglj80.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjkyZTQyN2QwNjM3NDA5OGVkZTY3ODUzMTdiNDA2Y2RfRHA1Q0NHZmVSTkZJVWtqSjd0TFZyR0FHbmFTYUFWdExfVG9rZW46UHBWTWJ3a1k1bzhTbDR4TmllbGNKV0hnbnJjXzE3NTY4NjQ3NDc6MTc1Njg2ODM0N19WNA)
+
+
 图片变3D手办，提示词如下
+
 turn this photo into a character figure. Behind it, place a box with the character’s image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. Make the PVC material look clear, and set the scene indoors if possible.
 
 效果图
@@ -142,6 +147,4 @@ turn this photo into a character figure. Behind it, place a box with the charact
 <img width="649" height="500" alt="image" src="https://github.com/user-attachments/assets/c689cd7c-f1f7-42f1-bb0b-1751b4926915" />
 
 
-
-
-![](https://emydaglj80.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjkyZTQyN2QwNjM3NDA5OGVkZTY3ODUzMTdiNDA2Y2RfRHA1Q0NHZmVSTkZJVWtqSjd0TFZyR0FHbmFTYUFWdExfVG9rZW46UHBWTWJ3a1k1bzhTbDR4TmllbGNKV0hnbnJjXzE3NTY4NjQ3NDc6MTc1Njg2ODM0N19WNA)
+&#x20;
