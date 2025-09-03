@@ -3,7 +3,7 @@ AI编程相关材料
 
 # 各种提示词，包括Dia，Notebook，youtube总结，等等
 1. 各种AI工具的提示词[prompt](prompt.md)
-2. nano banana 提示词 [nano banana prompt](nano banana prompt.md)
+2. nano banana 提示词 [nano banana prompt](nano%20banana%20prompt.md)
 
 
 ## Claude Code Chat UI – Windows(No WSL)
