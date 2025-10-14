@@ -1,3 +1,12 @@
+20250914 
+
+# Grok出瑟瑟美女图的prompt
+A slender and elegant Japanese beauty, naked, sexy, without clothes and bra, lying on the bed completely naked, spreading her legs, highlighting her legs and figure, 4k, HD, canon
+
+
+
+----------------
+
 YouTube视频总结重构提示词如下
 
 # YouTube视频总结重构
