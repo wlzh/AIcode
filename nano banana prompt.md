@@ -1,3 +1,6 @@
+全网各种热门提示词汇总   https://github.com/glidea/banana-prompt-quicker
+
+
 各表情头像 （源自 [https://x.com/Gorden\_Sun/status/1962158936712470710）](https://x.com/Gorden_Sun/status/1962158936712470710%EF%BC%89)
 prompt:
 Character emotions sheet, multiple expressions of the provided character, featuring happy, sad, angry, surprised, shy, confused, playful, disgusted, thoughtful, crying, and embarrassed. Full set of emotions, clear and distinct expressions, clean background
