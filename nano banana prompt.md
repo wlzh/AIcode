@@ -1,7 +1,8 @@
 
 --------------
 20251205
-![Uploading Google Gemini Image.png…]()
+<img width="2784" height="1536" alt="Google Gemini Image" src="https://github.com/user-attachments/assets/2413c404-4fd6-4ae3-b5c3-0628b998fd21" />
+
 
 
 A cartoon infographic, based on the structure of the original image_0.png, but all characters are anthropomorphic bananas. The title at the top reads \"大环境那么差，香蕉人出路在哪里？\" in large, dark characters. Below are twelve colored panels arranged in a grid, each with a title, icons, and text, all featuring banana characters.
