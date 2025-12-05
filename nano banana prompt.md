@@ -1,3 +1,35 @@
+
+--------------
+20251205
+![Uploading Google Gemini Image.png…]()
+
+
+A cartoon infographic, based on the structure of the original image_0.png, but all characters are anthropomorphic bananas. The title at the top reads \"大环境那么差，香蕉人出路在哪里？\" in large, dark characters. Below are twelve colored panels arranged in a grid, each with a title, icons, and text, all featuring banana characters.
+
+  Top row:
+  1. Blue panel \"皇粮三步曲:\" A banana in a graduation cap studying, a banana in a civil servant uniform taking an exam, a banana with a 'bianzhi' certificate. Text: \"考研 考公 考编\".
+  2. Orange panel \"牛马三步曲:\" A banana working on a factory assembly line, a banana with a headset at a computer, a banana in a suit shaking hands. Text: \"进厂 客服 销售\".
+  3. Yellow panel \"铁人三项:\" A banana on a scooter delivering food, a banana carrying a large package, a banana driving a car. Text: \"外卖 快递 滴滴\".
+  4. Green panel \"吉祥三宝:\" A banana in a security uniform, a banana with a broom cleaning, a banana holding a baby banana. Text: \"保安 保洁 保姆\".
+
+  Second row:
+  5. Purple panel \"气运三步曲:\" A banana with a video camera (vlogger), a banana writing on a scroll, a banana in front of a microphone (live streamer). Text: \"自媒体 网文 直播\".
+  6. Red panel \"躺平三步曲:\" A banana collecting rent money, a banana sitting with older bananas, a banana with a house and inheritance documents. Text: \"收租 啃老 继承\".
+  7. Gold panel \"命运捷径三步曲:\" A banana with a rich-looking banana lady, a banana with an older wealthy banana man, a banana faking an injury on the ground. Text: \"富婆 干爹 碰瓷\".
+  8. Brown panel \"动物三步曲:\" A banana dressed as a chicken, a banana dressed as a duck, a banana dressed as an ox/horse. Text: \"咯咯哒 嘎嘎嘎 纯牛马\".
+
+  Third row:
+  9. Dark red panel \"浮动祭天三步曲:\" A banana looking at stock market charts, a banana with coins and graphs, a banana in a crypto symbol circle. Text: \"基金 股票 币圈\".
+  10. Teal panel \"加密货币三步曲:\" A banana with a blockchain icon, a banana signing a contract, a banana with a megaphone (KOL). Text: \"项目 合约 KOL\".
+  11. Light blue panel \"逆天改名三步曲:\" A banana with 'CZ' on it, a banana with 'Web3', a banana with 'AI'. Text: \"CZ Web3 AI\".
+
+  The overall style is humorous and hand-drawn, consistent with the original image's aesthetic.
+
+图片背影再增加隐藏浅浅的水印，打字样“X @wlzh”
+
+
+------------
+
 全网各种热门提示词汇总   https://github.com/glidea/banana-prompt-quicker
 
 
