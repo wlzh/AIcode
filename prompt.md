@@ -41,6 +41,40 @@ We build faster roads but forget where we are going.
 Are you optimizing your life or just speeding up the crash?
 
 
+curl https://generativelanguage.googleapis.com/v1beta/openai/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer AIzaSyAqVHunfsMBKbBQfGRI" \
+  -d '{
+    "model": "gemini-3-flash",
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一个专业的助手。"
+      },
+      {
+        "role": "user",
+        "content": "你好，请简单介绍一下你自己。"
+      }
+    ],
+    "temperature": 0.7
+  }'
+
+
+
+curl http://127.0.0.1:8045/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer sk-59980cc79f9sfbd1fba0" \
+  -d '{
+    "model": "gemini-3-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello"
+      }
+    ]
+  }'
+
+
 
 -------------- 20251230
 
